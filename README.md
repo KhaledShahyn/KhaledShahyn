@@ -1,9 +1,9 @@
 <div align="center">
 
-# Mariam Sayed Mohammed
-### Full Stack (.NET + Angular) Developer
+# Khaled Shahyn
+### .NET Backend Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+%2B+Angular+Developer;Clean+Architecture+%7C+CQRS+%7C+ABP+Framework;Building+Scalable+APIs+%26+SPAs;Always+Learning%2C+Always+Shipping&size=22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=.NET+Backend+%2B+Developer;Clean+Architecture+%7C;Building+Scalable+APIs+%26;Always+Learning%2C+Always+Shipping&size=22)](https://git.io/typing-svg)
 
 <br/>
 
