@@ -16,12 +16,12 @@
 
 ---
 
-## ⚡ Snapshot
+##  Snapshot
 
 ```yaml
 Role      : .NET Backend Developer
 Location  : Cairo, Egypt
-Education : Misr Higher Institute For Commerce & Computers
+Education : Misr Higher Institute For Engineering & Technology
 Graduation: 2025
 Focus     : ASP.NET Core · Clean Architecture · REST APIs · Backend Engineering
 Now       : Building backend projects · Learning Docker & System Design · Open to opportunities
